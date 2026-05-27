@@ -1,0 +1,5 @@
+transformers
+datasets
+tokenizers
+torch
+python-dotenv
